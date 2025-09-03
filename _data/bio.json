@@ -2,17 +2,15 @@
   "basics": {
     "name": "Miles Cobb Dumlao",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/MilesCobbDumlao.png",
     "email": "milescd@hawaii.edu",
     "phone": "808-679-8233",
     "website": "https://MilesCobbDumlao.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "MilesCobbDumlao", "url": "http://github.com/MilesCobbDumlao" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/miles-cobb-dumlao/" },
     ]
   },
   "interests": [
