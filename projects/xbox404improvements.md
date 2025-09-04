@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/xbox404improvements.webp
 title: "404 Improvements"
 date: 2025
 published: true
