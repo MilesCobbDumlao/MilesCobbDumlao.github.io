@@ -10,15 +10,15 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "MilesCobbDumlao", "url": "http://github.com/MilesCobbDumlao" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/miles-cobb-dumlao/" },
+      { "network": "linkedin", "username": "Miles Cobb Dumlao", "url": "https://www.linkedin.com/in/miles-cobb-dumlao/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Videography" },
+    { "name": "MMA" },
+    { "name": "Software Engineering" },
+    { "name": "" },
+    { "name": "" }
   ],
   "skills": [
     {
