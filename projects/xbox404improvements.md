@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/xbox404improvements.webp
-title: "404 Improvements"
+title: "Xbox.com 404 Improvements"
 date: 2025
 published: true
 labels:
