@@ -17,25 +17,23 @@
     { "name": "Videography" },
     { "name": "MMA" },
     { "name": "Software Engineering" },
-    { "name": "" },
-    { "name": "" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Python", "TypeScript", "HTML/CSS", "React.ts", ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows OS" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "B.A.",
+      "startDate": "2023-08-26",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +41,70 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Microsoft",
+      "position": "Explore Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2025-05-19",
+      "endDate": "2025-08-08",
+      "summary": "Software Development and Product Management Intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Used React with TypeScript to redesign the Xbox.com error page, a page encountered 96 million times in 2 months",
+        "Developed components in React with TypeScript that allowed the marketing team to edit the Xbox.com error page without needing a developer, improving the experience of Xbox.com users and the Xbox marketing team",
+        "Implemented custom React hooks and custom tags to gather data from the error page, giving the Xbox marketing team metrics to measure success and to improve the error page"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Alaka'ina",
+      "position": "Cybersecurity Intern",
+      "website": "",
+      "startDate": "2024-06",
+      "endDate": "2026-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Earned Secret-level security clearance and worked with classified documents to ensure federal compliance, boosting the security of secret-level information",
+        "Shadowed Cybersecurity professionals at a Regional Cyber Center supporting 30,000 users across the Pacific"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Fred and Annie Chan Scholarship Fund for Information and Computer Sciences",
+      "date": "2025-02-15",
+      "awarder": "",
+      "summary": "Awarded to students majoring in computer science with at least a 3.0 GPA"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Charles R. Hemenway Scholarship Trust - UH Manoa",
+      "date": "2025-06-18",
+      "awarder": "",
+      "summary": "Awarded to undergraduate students of any major"
     }
   ],
   "references": [
