@@ -9,4 +9,8 @@ labels:
   - Java
 summary: "Tic-Tac-Toe game that I developed in ICS 211"
 ---
-This Java project is a Tic-Tac-Toe game built using the Swing library for the graphical user interface. The program creates a 3x3 grid of buttons that players can interact with to place their moves. The user plays as "X" while the computer generates random moves as "O." The game checks for vertical, horizontal, and diagonal wins after each move, and once a winner is determined, the remaining buttons are disabled. A message dialog is displayed to announce the result, and the outcome is also written to a text file.
+This project was a Java implementation of the classic Tic-Tac-Toe game using Swing for the graphical user interface. The program allowed a user to play against a computer opponent, with the board represented as a 3x3 grid of interactive buttons. It included win-condition checking for vertical, horizontal, and diagonal matches, as well as simple logic for the computer’s moves. Results of each game were recorded to a text file for persistence.
+
+I created this project in my ICS 211 Course: Object-Oriented Programming and Introduction to Data Structures in Java. This included setting up the GUI with JFrame and GridLayout, creating and styling the board with JButton components, implementing event handling for user interactions, programming the logic for the computer’s moves, checking all win conditions, and adding file output functionality to log results. I handled both the front-end design (UI) and the back-end game logic.
+
+Through this project, I gained hands-on experience in building desktop applications with Java Swing and learned how to connect user interactions with underlying logic through event listeners. I also practiced implementing core programming concepts such as arrays, loops, conditional logic, and file I/O. Debugging the win-condition logic and ensuring moves updated correctly strengthened my ability to break down problems systematically.
