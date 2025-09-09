@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Python", "TypeScript", "HTML/CSS", "React.ts", ]
+      "keywords": [ "Java", "Python", "TypeScript", "HTML/CSS", "React.ts" ]
     },
     {
       "name": "Toolsets/OS",
@@ -58,7 +58,7 @@
       "position": "Cybersecurity Intern",
       "website": "",
       "startDate": "2024-06",
-      "endDate": "2026-08",
+      "endDate": "2024-08",
       "summary": "",
       "highlights": [
         "Earned Secret-level security clearance and worked with classified documents to ensure federal compliance, boosting the security of secret-level information",
@@ -68,28 +68,26 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "ACM Computer Science Leadership Club",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "position": "Finance and Event Coordinator",
+      "startDate": "February 2025",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Aided in planning a career fair at the University of Hawaiʻi at Mānoa with over 100 student and employer participants",
+        "Created the sign-up process and developed performance metrics to evaluate event success and gather feedback for future events"
       ]
     },
     {
-      "organization": "",
+      "organization": "8-Bit Software Development Club",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "position": "Member",
+      "startDate": "2025-02",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
-        "",
-        ""
+        "Completed projects for the University of Hawaiʻi using the 8-bit tech stack: Git, Github, HTML, CSS, JavaScript, React.js, MySQL, ExpressJS",
       ]
     }
   ],
