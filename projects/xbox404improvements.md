@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/xbox404improvements.tiff
+image: img/xbox404improvements.jpg
 title: "Xbox.com 404 Improvements"
 date: 2025
 published: true
