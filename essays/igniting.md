@@ -1,19 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "TypeScript Type Shi"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2025-09-11
+published: true
 labels:
   - Software Engineering
-  - Learning
+  - TypeScript
 ---
+## Thoughts on TypeScript
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+So far, I’ve really enjoyed working with TypeScript. Since it is a superset of JavaScript, many of the assignments we’ve done feel familiar, but the addition of data types makes the code much more readable and easier to understand. Compared to JavaScript, I appreciate how TypeScript forces me to be more intentional with how I structure my code. I may be a little biased since I had some exposure to TypeScript this past summer during my Microsoft Explore internship, but that experience also showed me how useful it can be in a professional setting.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+From a software engineering perspective, I think TypeScript is a strong choice for web development. While I’m not an expert, I can see how it helps create scalable projects by improving readability and making collaboration easier. TypeScript also catches bugs earlier in the process and enforces better structure, which in turn makes projects more maintainable. Overall, I think it provides a solid foundation for building larger applications compared to plain JavaScript.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+## Athletic Software Engineering
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+In ICS 314: Software Engineering, I was introduced to the idea of athletic software engineering. Each week, we complete “Workouts of the Day” (WODs), which are essentially timed projects. Typically, there are two: a practice WOD that we can work on collaboratively and a graded WOD with similar requirements. For each WOD, we’re given directions and asked to implement specific features and test cases within a time limit.
+
+I’ve found this style of learning to be both challenging and useful. On one hand, the timed nature of the WODs reminds me of technical interviews, where you’re asked to solve a problem under pressure. On the other hand, the focus of the WODs is different—technical interviews often emphasize data structures and algorithms, while WODs center more on applied coding tasks. Similarly, in real software engineering jobs, projects do have deadlines, but they’re not usually timed to the minute like in class. That said, I still think the WODs are valuable. They push me to think quickly, manage stress, and practice writing functional code under constraints. Even though I haven’t passed the last couple, the process has highlighted areas I need to improve in, and I believe it will help me grow as a programmer.
+
+
+
