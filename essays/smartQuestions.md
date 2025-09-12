@@ -16,7 +16,7 @@ Asking good questions is the key to getting good answers. While that may sound o
 
 ## “Smart” Questions on Stack Overflow
 
-A strong example of a smart question comes from Stack Overflow: “Why is processing a sorted array faster than processing an unsorted array?”
+A strong example of a smart question comes from [Stack Overflow: “Why is processing a sorted array faster than processing an unsorted array?”](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 . The asker provided complete and runnable code in both C++ and Java, detailed timing results, and their own hypothesis about performance differences. This careful preparation attracted detailed answers from the community about cache optimization, branch prediction, and CPU behavior. The responses were highly technical and educational, going beyond simply “fixing” the issue to deepen the asker’s and readers’ understanding of computer architecture. This shows how a well-constructed question, following Raymond’s principles, can generate effective, efficient, and lasting value for the entire developer community.
 
 ## Not so “Smart” Questions
