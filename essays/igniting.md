@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript Type Shi"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
-published: true
+published: false
 labels:
   - Software Engineering
   - TypeScript
