@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "MilesCobbDumlao", "url": "http://github.com/MilesCobbDumlao" },
-      { "network": "linkedin", "username": "Miles Cobb Dumlao", "url": "https://www.linkedin.com/in/miles-cobb-dumlao/" },
+      { "network": "linkedin", "username": "Miles Cobb Dumlao", "url": "https://www.linkedin.com/in/miles-cobb-dumlao/" }
     ]
   },
   "interests": [
@@ -19,6 +19,8 @@
     { "name": "Software Engineering" },
     { "name": "Cybersecurity " },
     { "name": "AI" },
+    { "name": "Hiking" }
+    
 
 
   ],
@@ -91,7 +93,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Completed projects for the University of Hawaiʻi using the 8-bit tech stack: Git, Github, HTML, CSS, JavaScript, React.js, MySQL, ExpressJS",
+        "Completed projects for the University of Hawaiʻi using the 8-bit tech stack: Git, Github, HTML, CSS, JavaScript, React.js, MySQL, ExpressJS"
       ]
     }
   ],
